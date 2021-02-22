@@ -1,5 +1,13 @@
-### Hi there 👋
-
+### Daniel Fernandes
+ 
+ Meu nome é Daniel Fernandes, tenho 21 anos e sou estudante de Sistemas de Informação pela Universidade Federal dos Vales dos Jequitinhonha e Mucuri(UFVJM).
+ Atualmente trabalho como desenvolvedor Frontend com JavaScript.
+ 
+ ### Technologies
+ - Frontend: HTML, CSS e JavaScript
+ - Backend: PHP, Laravel e MySQL 
+ - Git
+ - WordPress
 <!--
 **dandanfcs/dandanfcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
