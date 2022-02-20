@@ -1,11 +1,11 @@
 ### Daniel Fernandes
  
  Meu nome é Daniel Fernandes, tenho 21 anos e sou estudante de Sistemas de Informação pela Universidade Federal dos Vales dos Jequitinhonha e Mucuri(UFVJM).
- Atualmente trabalho como desenvolvedor Frontend com JavaScript.
+ Atualmente trabalho como desenvolvedor FullStack em React.JS e .NET CORE.
  
  ### Technologies
  - Frontend: HTML, CSS e JavaScript
- - Backend: PHP, Laravel e MySQL 
+ - Backend: PHP,C#, .NET Core, Laravel, MySQL e SqlServer 
  - Git
  - WordPress
  - Figma
